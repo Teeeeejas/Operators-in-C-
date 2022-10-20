@@ -1,2 +1,2 @@
-# Operators-in-C-
+# Operators-in-C++
 Types of Operators in C++
